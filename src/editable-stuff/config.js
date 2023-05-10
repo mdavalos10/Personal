@@ -44,7 +44,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/IMG_1354.jpg"),
   imageSize: 375,
   message:
     "Hello my name is Mateo Davalos and I’m 20 years old. I am a junior at Fairfield University majoring in Computer Science.",
@@ -119,8 +119,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for full-time Software Engineering or Cybersercurity opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "mdavalos392@gmail.com",
 };
 
 const experiences = {
